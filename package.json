@@ -1,0 +1,28 @@
+{
+  "author": "Kelly Martin",
+  "bugs": {
+    "url": "https://github.com/kemitchell/smart-quotes.js/issues"
+  },
+  "contributors": [
+    {
+      "name": "Kyle E. Mitchell",
+      "email": "kyle@kemitchell.com",
+      "url": "http://kemitchell.com/"
+    }
+  ],
+  "description": "Common Form project lint algorithms",
+  "homepage": "https://github.com/kemitchell/smart-quotes.js",
+  "keywords": [
+    "punctuation",
+    "quotation marks",
+    "typography"
+  ],
+  "license": "MIT",
+  "main": "smart-quotes.js",
+  "name": "smart-quotes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kemitchell/smart-quotes.js.git"
+  },
+  "version": "0.0.1"
+}
